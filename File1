@@ -12,3 +12,7 @@ git config user.email -> show the current email
 
 git config user.name sndpoffcl
 git config user.email sandeep2official@gmai.com
+git remote add origin <link>
+git status
+git add 
+git commit -m <msg>
