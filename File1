@@ -1,0 +1,14 @@
+this is a new file
+Line1
+Line2
+Line3
+Line4
+Line5
+
+
+git config user.name -> show the current name 
+
+git config user.email -> show the current email 
+
+git config user.name sndpoffcl
+git config user.email sandeep2official@gmai.com
